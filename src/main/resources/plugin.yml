@@ -5,3 +5,5 @@ main: ${plugin_main}
 description: Automatically smelt minecraft ore
 website: https://me.noobnuby.com
 author: noobnuby
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.0
